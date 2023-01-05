@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s97clinton
-- 👀 I’m interested in sports analytics and machine learning.
-- 🌱 I’m currently learning ways to improve my NFL model.
-- 💞️ I’m looking to chat with folks in the NFL, NCAAF, NHL, or MMA analytics space.
+- 👀 I’m interested in...
+- 🌱 
+- 💞️ 
 - 📫 
 
 <!---
