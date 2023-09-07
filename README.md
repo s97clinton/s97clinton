@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s97clinton
-- 👀 I’m interested in...
-- 🌱 
+- 👀 I’m interested in using machine learning tools to project NFL game outcomes and player statistics.
+- 🌱 My website is www.ScubaSteveFootball.com
 - 💞️ 
 - 📫 
 
