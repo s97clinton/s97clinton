@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Clinton!
-- 👀 I'm interested in using data science to model outcomes in NFL football games.
+- 👀 I am a data scientist.
 - 💞️ I like working with Python, but also have a history of working with R, and try to keep both skillsets up to date!
-- As of now, my public project setup is a work in progress, but that should change rapidly in the last few days of Oct '26 into November!
+- As of now, my public project setup is a work in progress, but that should change early in November of 2026!
 - 📫 
 
 <!---
