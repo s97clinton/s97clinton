@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven Clinton!
-- 👀 I am a data scientist. I like working with Python, but also have a history of working with R.
+- 👀 I am a data scientist. I primarily work with Python these days, but also have a history of working with R.
 - 📫 You can reach out to me at (...) if you would like to talk data science, modeling, or any other topic!
 
 <!---
